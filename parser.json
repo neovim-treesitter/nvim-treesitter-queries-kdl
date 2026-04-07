@@ -1,7 +1,6 @@
 {
-  "location": null,
-  "lang": "kdl",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-kdl",
   "semver": false,
-  "parser_version": "b37e3d58e5c5cf8d739b315d6114e02d42e66664"
+  "parser_version": "b37e3d58e5c5cf8d739b315d6114e02d42e66664",
+  "lang": "kdl"
 }
